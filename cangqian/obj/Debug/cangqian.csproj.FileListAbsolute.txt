@@ -1,0 +1,15 @@
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.csproj.ResolveComReference.cache
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.Form1.resources
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.Properties.Resources.resources
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.csproj.GenerateResource.Cache
+D:\VC\projects\cangqian\cangqian\bin\Debug\cangqian.exe.config
+D:\VC\projects\cangqian\cangqian\bin\Debug\cangqian.exe
+D:\VC\projects\cangqian\cangqian\bin\Debug\cangqian.pdb
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.exe
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.pdb
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.Form2.resources
+D:\VC\projects\cangqian\cangqian\bin\Debug\cangqian.exe.manifest
+D:\VC\projects\cangqian\cangqian\bin\Debug\cangqian.application
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.exe.manifest
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.application
+D:\VC\projects\cangqian\cangqian\obj\Debug\cangqian.csprojResolveAssemblyReference.cache
